@@ -7,8 +7,13 @@ Usage (with eclipse):
 3.) Run
 4.) Navigate to localhost:8080
 
-Application has two demo users: 
-user/user (role=USER) and
-admin/admin (role=ADMIN)
+Käyttätunnukset ja Salasana<br>
+Käyttätunus:user<br>
+Salasana: user<br>
+Rooli: Peruskäyttäjä
+
+Käyttätunus:admin<br>
+Salasana: admin<br>
+Rooli: admin
 
 ![Screenshot](http://juhahinkula.github.com/img/jpa_auditing.png)
